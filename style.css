@@ -1,6 +1,6 @@
 
 body {
-  background: linear-gradient(#1c1f26, #2c3e50);
+  background: linear-gradient(#1c1f26, #e4ecf3);
   font-family: 'Roboto', sans-serif;
   text-align: center;
   padding: 40px;
@@ -8,7 +8,7 @@ body {
 }
 
 .card {
-  background: #34495e;
+  background: #3d76a2;
   padding: 30px;
   border-radius: 15px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
@@ -26,7 +26,7 @@ body {
 }
 
 h1 {
-  color: #00aced;
+  color: #10b3cf;
 }
 
 #wish {
@@ -46,7 +46,7 @@ button {
 }
 
 button:hover {
-  background-color: #1abc9c;
+  background-color: #30b83e;
 }
 
 #surprise {
